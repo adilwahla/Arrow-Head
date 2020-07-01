@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "568756449374",
+    "firebase_url": "https://arrowheadapp.firebaseio.com",
+    "project_id": "arrowheadapp",
+    "storage_bucket": "arrowheadapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568756449374:android:76947d3a0065a1d22d44cf",
+        "android_client_info": {
+          "package_name": "com.wahla.arrowhead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568756449374-oje9o91g059680d4nss0gr8b8nk83p79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8yaDaezxAigXp6G4TSiPRAruOYTIqhg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568756449374-oje9o91g059680d4nss0gr8b8nk83p79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
